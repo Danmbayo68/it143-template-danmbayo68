@@ -1,0 +1,1 @@
+-- A: Sum the total transaction amounts grouped by customer ID from the transaction fact table.

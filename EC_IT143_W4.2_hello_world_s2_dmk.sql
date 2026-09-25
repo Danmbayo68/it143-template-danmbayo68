@@ -1,0 +1,1 @@
+-- A: You can select a literal string 'Hello World' using a simple SELECT statement.

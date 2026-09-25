@@ -1,0 +1,1 @@
+-- Q: What is the total transaction amount per customer in the Simpsons dataset?

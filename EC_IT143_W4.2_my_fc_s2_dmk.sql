@@ -1,0 +1,1 @@
+-- A: Query the member contact table to list active members and their joining date.

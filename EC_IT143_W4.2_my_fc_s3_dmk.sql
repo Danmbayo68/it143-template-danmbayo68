@@ -1,0 +1,1 @@
+SELECT 1 AS member_id, 'Active' AS member_status, GETDATE() AS date_joined;

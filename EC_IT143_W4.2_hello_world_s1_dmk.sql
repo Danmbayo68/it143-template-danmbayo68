@@ -1,0 +1,1 @@
+-- Q: How can I display a basic greeting message in SQL Server?
