@@ -1,0 +1,3 @@
+-- Step 2. Begin creating an answer.
+-- Answer: We can extract the first name by finding the first space character in the 
+-- ContactName column and using the LEFT function to extract all characters before it.

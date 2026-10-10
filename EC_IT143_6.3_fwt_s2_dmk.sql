@@ -1,0 +1,2 @@
+-- Step 2. Begin creating an answer.[cite: 1]
+-- Answer: By adding audit columns and using an AFTER UPDATE trigger to capture the timestamp and user.[cite: 1]

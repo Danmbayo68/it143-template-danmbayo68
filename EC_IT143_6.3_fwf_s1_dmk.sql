@@ -1,0 +1,2 @@
+-- Step 1. Start with a question.
+-- Question: How do you extract the first name from the contact name?
